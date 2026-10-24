@@ -54,7 +54,7 @@ git remote add origin https://github.com/dacwebsolucoes/extrator-youtube-mp3.git
 echo.
 echo Fazendo upload para https://github.com/dacwebsolucoes/extrator-youtube-mp3 ...
 echo Se abrir uma janela do GitHub, clique em Sign in with your browser.
-git push -u origin main
+git push -u origin main --force
 
 echo.
 echo ===================================================
